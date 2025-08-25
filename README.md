@@ -10,7 +10,7 @@ Create Virtual Environment by following these steps
 7. %pip install -qU pypdf
 8. change the file_path (pdf_location) in the llm.py
 9. After these changes , create a .env file in the same folder and  add GOOGLE_API_KEY='add your gemini api key here' , COHERE_API_KEY='ADD COHERE API KEY HERE'
-10. python llm.py
+10. run this command , python llm.py
 
 FOR COHERE_API REFER : https://dashboard.cohere.com/api-keys
 FOR GEMINI_API REFER : https://aistudio.google.com/apikey
